@@ -1,2 +1,3 @@
 # hello-world
-My new repository
+
+Hello! My name is Juhi Talreja. I like Python, Java and SQL.
